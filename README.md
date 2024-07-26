@@ -1,4 +1,4 @@
-![logo](https://i.pinimg.com/originals/93/8e/0f/938e0f24a2943fc1606e340033b45d8b.jpg)
+
 <h1 align="center">Hi 👋, I'm Yashraj Damji</h1>
 <h3 align="center">I'm passionate Software Engineer from MH,India</h3>
 
