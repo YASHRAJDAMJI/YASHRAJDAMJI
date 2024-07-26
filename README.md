@@ -1,6 +1,6 @@
-![logo](https://github.com/AtharvaBhadange505/AtharvaBhadange505/blob/main/github%20banner%202.png)
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fgithub-vector-art-png-github-icon-design-vector-github-icons-behance-communication-png-image-for-free-download--17451517296902196%2F&psig=AOvVaw0yAbAFiXMLxN1Hx0Kgu20S&ust=1722056316876000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjV5On1w4cDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Yashraj Damji</h1>
-<h3 align="center">I'm passionate Software Engineer from India</h3>
+<h3 align="center">I'm passionate Software Engineer from MH,India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
@@ -10,7 +10,7 @@
 
 - 📝 I like to write articles on [https://medium.com/@atharvabhadange7](https://medium.com/@atharvabhadange7)
 
-- 📫 How to reach me **atharvabhadange7@gmail.com**
+- 📫 How to reach me **yashrajdamji@gmail.com**
 
 - ⚡ Fun fact **I think I am funny😅**
 
